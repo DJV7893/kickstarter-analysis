@@ -14,7 +14,7 @@ The first step was to filter the Kickstarter data to only select campaign outcom
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99817571/155741310-e89521f7-d7c3-4052-94e0-52f6d6824522.png)
 
 ---
-### Analysis of Outcomes Based on Goals 
+### Analysis of Outcomes Based on Goal 
 The subsequent analysis focused on breaking down the previously selected campaign outcomes category based on different funding goal ranges. We narrowed the scope of outcomes based on goal amounts to only display the Subcategory of plays. Once we produced this matrix we calculated the percentage of each outcome classification over that goal range and displayed the data on a ine chart.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99817571/155741446-f60e2292-cb3f-48e6-b788-fe8175d1ead2.png)
