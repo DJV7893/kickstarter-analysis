@@ -21,11 +21,13 @@ The subsequent analysis focused on breaking down the previously selected campaig
 The overall process of selecting and filtering the relevant rows and columns of data in order to produce informative charts was not cumbersome. However, one of the possible challenges that could hamper the process of creating these tables and charts would be in the use of functions such as COUNTIFS() or SUM(). If the proper syntax isn’t used we could be inserting into columns irrelevant or even an excess of data points that could produce inaccurate charts and effect our recommendations for Louise.
 ---
 ## Results
----
-### Conclusions
 Based on the Launch Date line chart, we can observe that the peak month to launch a successful theater funding campaign would be in the month of May. Similarly, a secondary conclusion we can make is that as the season transitions from winter to spring we see substantial growth in successful campaigns that then begins to drop significantly as the season transitions to summer. Accordingly, the best season for theater fundraising campaigns is in the spring.
 Based on The Outcomes Based on Goal data set we can observe that fundraising play campaigns will have a higher likelihood of success if the goal amount is less than 5,000. The ranges of less than 1,000 and 1,000 to 4,999 fundraising goal had a higher than 72 percent chance of success. After 4,999 we can see that the likelihood of success fluctuates as the goal amount increases.
+
+---
+### Conclusions
 ---
 ### Limitations and Recomendations
 One of the limitations of the data set is that we are filtering the Outcomes based on Launch Date and Goals using two different levels of categories; theaters (Parent Category) and plays (Subcategory). Included in the Parent Category of Theater is musicals which is not applicable to Louise whose interest is in campaign outcomes related to plays. This could potentially skew the data for Outcomes based on Launch Date if musicals did not have generally successful outcomes.
 A new analysis that we can produce is to display how long it takes to fulfill a plays funding goal. We know that the best month to begin a funding campaign is in the month of May but we don’t know how long it takes to meet the goal amount.
+Based on The Outcomes Based on Goal data set we can observe that fundraising play campaigns will have a higher likelihood of success if the goal amount is less than 5,000. The ranges of less than 1,000 and 1,000 to 4,999 fundraising goal had a higher than 72 percent chance of success. After 4,999 we can see that the likelihood of success fluctuates as the goal amount increases.
